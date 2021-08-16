@@ -5,4 +5,7 @@
 
 
 文件内容如下
-CNAME
+
+
+文件名称：CNAME
+文件内容：www.ilovehj.top
